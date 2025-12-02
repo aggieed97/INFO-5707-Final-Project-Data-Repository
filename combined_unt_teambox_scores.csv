@@ -1,2 +1,78 @@
 game_id,season,game_date,team_id,team_display_name,team_home_away,team_score,team_winner,field_goals_made,field_goals_attempted,free_throws_made,free_throws_attempted,opponent_team_id,opponent_team_display_name,opponent_team_score,league
 401751953,2025,2025-03-23,2032,Arkansas State Red Wolves,away,63,False,24,65,7,9,249,North Texas Mean Green,65,ncaam
+401751939,2025,2025-03-19,231,Furman Paladins,away,64,False,26,54,2,4,249,North Texas Mean Green,75,ncaam
+401745786,2025,2025-03-15,5,UAB Blazers,away,66,True,24,56,14,19,249,North Texas Mean Green,56,ncaam
+401745783,2025,2025-03-14,202,Tulsa Golden Hurricane,away,59,False,15,44,22,26,249,North Texas Mean Green,77,ncaam
+401725629,2025,2025-03-09,218,Temple Owls,home,66,True,20,42,20,29,249,North Texas Mean Green,61,ncaam
+401725622,2025,2025-03-06,2429,Charlotte 49ers,away,64,False,21,55,14,15,249,North Texas Mean Green,75,ncaam
+401725617,2025,2025-03-03,2724,Wichita State Shockers,away,66,False,24,52,16,19,249,North Texas Mean Green,68,ncaam
+401725610,2025,2025-02-27,2226,Florida Atlantic Owls,home,61,False,20,48,14,16,249,North Texas Mean Green,71,ncaam
+401725603,2025,2025-02-23,58,South Florida Bulls,home,57,False,20,58,16,23,249,North Texas Mean Green,64,ncaam
+401725596,2025,2025-02-19,202,Tulsa Golden Hurricane,away,44,False,14,42,12,19,249,North Texas Mean Green,63,ncaam
+401725585,2025,2025-02-11,242,Rice Owls,home,61,False,22,50,12,23,249,North Texas Mean Green,67,ncaam
+401725578,2025,2025-02-08,2655,Tulane Green Wave,away,66,False,21,50,19,23,249,North Texas Mean Green,76,ncaam
+401725571,2025,2025-02-03,5,UAB Blazers,home,64,True,26,58,10,13,249,North Texas Mean Green,61,ncaam
+401725567,2025,2025-02-01,2636,UTSA Roadrunners,away,54,True,18,44,14,16,249,North Texas Mean Green,50,ncaam
+401725560,2025,2025-01-29,2724,Wichita State Shockers,home,54,False,18,50,15,18,249,North Texas Mean Green,58,ncaam
+401725556,2025,2025-01-26,2226,Florida Atlantic Owls,away,64,False,22,53,13,15,249,North Texas Mean Green,77,ncaam
+401725551,2025,2025-01-22,218,Temple Owls,away,67,False,23,65,14,18,249,North Texas Mean Green,76,ncaam
+401725543,2025,2025-01-18,2636,UTSA Roadrunners,home,57,False,19,50,13,13,249,North Texas Mean Green,72,ncaam
+401725536,2025,2025-01-14,151,East Carolina Pirates,home,60,False,24,53,4,10,249,North Texas Mean Green,69,ncaam
+401725528,2025,2025-01-08,242,Rice Owls,away,59,False,20,53,13,18,249,North Texas Mean Green,81,ncaam
+401725522,2025,2025-01-05,235,Memphis Tigers,home,68,True,24,44,15,21,249,North Texas Mean Green,64,ncaam
+401725515,2025,2024-12-31,5,UAB Blazers,away,75,False,23,56,19,21,249,North Texas Mean Green,78,ncaam
+401715963,2025,2024-12-22,2277,Houston Christian Huskies,away,46,False,15,44,12,15,249,North Texas Mean Green,62,ncaam
+401730691,2025,2024-12-20,2026,App State Mountaineers,away,64,False,22,42,13,16,249,North Texas Mean Green,68,ncaam
+401722086,2025,2024-12-18,2400,Mississippi Valley State Delta Devils,away,42,False,13,40,13,16,249,North Texas Mean Green,83,ncaam
+401720460,2025,2024-12-06,2272,High Point Panthers,home,76,True,20,45,28,37,249,North Texas Mean Green,71,ncaam
+401729851,2025,2024-11-29,328,Utah State Aggies,away,61,True,20,46,15,21,249,North Texas Mean Green,57,ncaam
+401715921,2025,2024-11-28,2460,Northern Iowa Panthers,away,48,False,20,49,3,6,249,North Texas Mean Green,68,ncaam
+401722272,2025,2024-11-25,204,Oregon State Beavers,away,55,False,18,38,10,14,249,North Texas Mean Green,58,ncaam
+401734106,2025,2024-11-21,2642,Texas Wesleyan Rams,away,66,False,26,47,8,12,249,North Texas Mean Green,73,ncaam
+401730768,2025,2024-11-18,2377,McNeese Cowboys,home,68,True,19,43,26,39,249,North Texas Mean Green,61,ncaam
+401715389,2025,2024-11-13,135,Minnesota Golden Gophers,home,51,False,15,48,15,22,249,North Texas Mean Green,54,ncaam
+401732252,2025,2024-11-07,630,Wayland Baptist Pioneers,away,38,False,13,50,4,7,249,North Texas Mean Green,80,ncaam
+401827042,2026,2025-11-30,2504,Prairie View A&M Panthers,away,69,False,24,54,18,22,249,North Texas Mean Green,72,ncaam
+401823503,2026,2025-11-25,331,Eastern Washington Eagles,away,71,False,25,63,15,19,249,North Texas Mean Green,79,ncaam
+401824937,2026,2025-11-20,2110,Central Arkansas Bears,away,56,False,16,48,18,32,249,North Texas Mean Green,74,ncaam
+401828277,2026,2025-11-14,2608,Saint Mary's Gaels,home,80,True,27,61,17,21,249,North Texas Mean Green,49,ncaam
+401824056,2026,2025-11-12,204,Oregon State Beavers,home,66,True,17,46,23,28,249,North Texas Mean Green,64,ncaam
+401828275,2026,2025-11-06,2466,Northwestern State Demons,away,53,False,14,40,20,27,249,North Texas Mean Green,80,ncaam
+401828274,2026,2025-11-03,2424,New Mexico Highlands Cowboys,away,54,False,17,49,15,20,249,North Texas Mean Green,88,ncaam
+401763305,2025,2025-03-24,250,UT Arlington Mavericks,away,67,False,25,60,12,16,249,North Texas Mean Green,78,ncaaw
+401745744,2025,2025-03-10,151,East Carolina Pirates,away,58,False,21,61,12,15,249,North Texas Mean Green,69,ncaaw
+401727642,2025,2025-03-01,5,UAB Blazers,away,56,False,21,56,8,12,249,North Texas Mean Green,77,ncaaw
+401727638,2025,2025-02-26,2429,Charlotte 49ers,away,58,False,21,68,9,12,249,North Texas Mean Green,67,ncaaw
+401727631,2025,2025-02-22,151,East Carolina Pirates,home,73,False,26,62,14,24,249,North Texas Mean Green,75,ncaaw
+401727621,2025,2025-02-15,202,Tulsa Golden Hurricane,home,58,False,21,66,7,8,249,North Texas Mean Green,61,ncaaw
+401727616,2025,2025-02-12,235,Memphis Tigers,away,57,False,23,61,5,9,249,North Texas Mean Green,97,ncaaw
+401727612,2025,2025-02-09,2655,Tulane Green Wave,away,64,False,21,55,17,29,249,North Texas Mean Green,69,ncaaw
+401727598,2025,2025-02-01,58,South Florida Bulls,home,65,True,26,58,11,18,249,North Texas Mean Green,58,ncaaw
+401727592,2025,2025-01-29,218,Temple Owls,away,67,False,26,62,7,11,249,North Texas Mean Green,70,ncaaw
+401727586,2025,2025-01-25,2226,Florida Atlantic Owls,home,61,False,23,62,10,14,249,North Texas Mean Green,73,ncaaw
+401727577,2025,2025-01-18,2724,Wichita State Shockers,away,58,False,24,62,4,8,249,North Texas Mean Green,80,ncaaw
+401727571,2025,2025-01-15,242,Rice Owls,away,53,False,22,58,6,9,249,North Texas Mean Green,61,ncaaw
+401727562,2025,2025-01-11,58,South Florida Bulls,away,65,False,19,55,23,29,249,North Texas Mean Green,72,ncaaw
+401727557,2025,2025-01-08,2655,Tulane Green Wave,home,65,True,25,63,10,14,249,North Texas Mean Green,62,ncaaw
+401727551,2025,2025-01-04,235,Memphis Tigers,home,71,False,26,65,13,19,249,North Texas Mean Green,73,ncaaw
+401727526,2025,2025-01-01,202,Tulsa Golden Hurricane,away,78,False,31,72,5,8,249,North Texas Mean Green,84,ncaaw
+401727520,2025,2024-12-29,2724,Wichita State Shockers,home,56,False,19,65,9,21,249,North Texas Mean Green,62,ncaaw
+401714147,2025,2024-12-21,2130,Chicago State Cougars,away,57,False,23,61,5,6,249,North Texas Mean Green,83,ncaaw
+401711577,2025,2024-12-19,2567,SMU Mustangs,away,74,True,25,60,21,28,249,North Texas Mean Green,66,ncaaw
+401714141,2025,2024-12-15,2541,Santa Clara Broncos,home,63,True,22,48,15,19,249,North Texas Mean Green,58,ncaaw
+401714146,2025,2024-12-07,79,Southern Illinois Salukis,away,54,False,21,52,5,8,249,North Texas Mean Green,87,ncaaw
+401714145,2025,2024-12-04,2634,Tennessee State Lady Tigers,away,65,False,23,61,12,18,249,North Texas Mean Green,83,ncaaw
+401714140,2025,2024-12-01,167,New Mexico Lobos,home,75,True,28,58,11,14,249,North Texas Mean Green,58,ncaaw
+401714139,2025,2024-11-24,248,Houston Cougars,home,53,False,17,56,15,19,249,North Texas Mean Green,69,ncaaw
+401714144,2025,2024-11-20,2466,Northwestern State Lady Demons,away,59,False,21,51,8,10,249,North Texas Mean Green,62,ncaaw
+401714138,2025,2024-11-16,2000,Abilene Christian Wildcats,home,60,False,24,69,4,7,249,North Texas Mean Green,71,ncaaw
+401713605,2025,2024-11-12,2483,Oregon Ducks,home,66,True,27,60,5,9,249,North Texas Mean Green,35,ncaaw
+401714143,2025,2024-11-07,2640,Texas Southern Tigers,away,54,False,22,72,6,14,249,North Texas Mean Green,78,ncaaw
+401714142,2025,2024-11-04,2016,Alcorn State Lady Braves,away,65,False,28,57,7,11,249,North Texas Mean Green,84,ncaaw
+401822990,2026,2025-11-27,2641,Texas Tech Lady Raiders,away,67,True,23,51,12,16,249,North Texas Mean Green,47,ncaaw
+401825068,2026,2025-11-26,2608,Saint Mary's Gaels,away,65,False,23,57,10,12,249,North Texas Mean Green,67,ncaaw
+401823655,2026,2025-11-22,2567,SMU Mustangs,home,55,False,21,66,8,12,249,North Texas Mean Green,58,ncaaw
+401825067,2026,2025-11-19,2000,Abilene Christian Wildcats,away,60,True,17,46,21,30,249,North Texas Mean Green,51,ncaaw
+401825066,2026,2025-11-13,2904,Nelson Lions,away,50,False,17,55,8,10,249,North Texas Mean Green,102,ncaaw
+401825065,2026,2025-11-07,2755,Grambling Lady Tigers,away,49,False,15,67,16,26,249,North Texas Mean Green,89,ncaaw
+401825064,2026,2025-11-03,589,Oklahoma Christian University Eagles,away,36,False,14,44,2,7,249,North Texas Mean Green,106,ncaaw
